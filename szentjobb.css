@@ -7,6 +7,13 @@
     padding: 20px;
 }
 
+a{
+color: #E8D4A1;
+}
+a:hover{
+    color: cyan;
+}
+
 hr
 {
     height: 1px;
